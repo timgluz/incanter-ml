@@ -1,0 +1,17 @@
+# incanter-ml
+
+Machine learning library built top of Incanter scientific-computing library, written in Clojure.
+
+Currently working on version 0.0.1.
+
+
+
+## Usage
+
+FIXME: write
+
+## License
+
+Copyright (C) 2012 FIXME
+
+Distributed under the Eclipse Public License, the same as Clojure.
