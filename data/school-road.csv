@@ -1,0 +1,14 @@
+distance,raining,flat_tire,mode
+1,no,no,walk
+1,no,yes,walk
+1,yes,no,bike
+1,yes,yes,walk
+2,no,no,walk
+2,yes,no,bike
+2,yes,yes,bus
+4,no,no,bike
+4,yes,no,bus
+4,no,no,bike
+10,no,no,bike
+10,yes,yes,bus
+10,yes,no,bus
